@@ -26,7 +26,7 @@ I’m a **Web Developer with ~2 years of hands-on experience**, focused on:
 
 I enjoy working at the intersection of **Frontend, AI, and Product Engineering** — turning ideas into fast, production-ready solutions.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 Core Strengths
 
@@ -36,7 +36,7 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 - SEO, ads, hydration & production debugging
 - Writing code that scales with users and teams
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
@@ -44,16 +44,41 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,mui,nodejs,firebase,aws,nginx,git,github,gitlab,postman,notion,vite,npm" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-1511&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-1511&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+  
+  </summary>
 
----
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <span>
+      <a href="https://aboutdhruv.vercel.app/">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dhruv-1511&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="https://aboutdhruv.vercel.app/">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv-1511&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+      </a>
+    </span>
+    <span>
+      <a href="https://aboutdhruv.vercel.app/">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dhruv-1511&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href="[https://aboutdhruv.vercel.app/">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dhruv-1511&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
+</details>
 
 ## 🤝 Let’s Build Something Impactful
 
@@ -61,6 +86,6 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 - 🚀 Interested in **startups, SaaS & product teams**
 - 📬 Email: **dhruvsheladiya07@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⭐ If you like my work, consider starring a repository — it really helps!
