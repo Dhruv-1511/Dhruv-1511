@@ -46,9 +46,9 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
+<!-- <details> -->
   <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp; -->
     <b>Stats Overview</b>
 
   
@@ -62,11 +62,11 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
         <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dhruv-1511&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
       </a>
     </span>
-    <span>
+    <!-- <span>
       <a href="https://aboutdhruv.vercel.app/">
         <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv-1511&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
       </a>
-    </span>
+    </span> -->
     <span>
       <a href="https://aboutdhruv.vercel.app/">
         <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dhruv-1511&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
@@ -78,7 +78,7 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
       </a>
     </span>
   </div>
-</details>
+<!-- </details> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -90,8 +90,8 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Graph  
+<!-- ## 🐍 Contribution Graph  
 
-<img src="https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c" />
+<img src="https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c" /> -->
 
 ### ⭐ If you like my work, consider starring a repository — it really helps!
