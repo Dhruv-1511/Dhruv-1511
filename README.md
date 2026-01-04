@@ -41,7 +41,7 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,mui,nodejs,firebase,aws,nginx,git,github,gitlab,postman,notion,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,redux,tailwind,mui,nodejs,firebase,aws,nginx,git,github,gitlab,postman,notion,vite,npm" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
