@@ -19,10 +19,10 @@
 
 I’m a **Web Developer with ~2 years of hands-on experience**, focused on:
 
-- ⚡ Building **high-performance, scalable web applications**
-- 🤖 **Integrating AI** into real-world products (not just demos)
-- 🧠 Writing **clean, maintainable frontend architecture**
-- 🚀 Deploying & scaling apps using modern DevOps tools
+- ⚡ **Building robust, performance-optimized web applications** that scale with growing user demands  
+- 🤖 **Bringing AI capabilities into real-world products**, focusing on usability, reliability, and measurable impact  
+- 🧠 **Crafting well-structured frontend architectures** that are easy to maintain, extend, and collaborate on  
+- 🚀 **Managing end-to-end deployment and scaling** using modern DevOps practices and tools  
 
 I enjoy working at the intersection of **Frontend, AI, and Product Engineering** — turning ideas into fast, production-ready solutions.
 
