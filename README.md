@@ -99,8 +99,4 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ## 🐍 Contribution Graph  
-
-<img src="https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c" /> -->
-
 ### ⭐ If you like my work, consider starring a repository — it really helps!
