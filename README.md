@@ -28,13 +28,22 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 Core Strengths
+### 🚀 Core Expertise & Focus Areas
 
-- Scalable **React & Next.js architecture**
-- Performance optimization & clean state management
-- AI feature integration (recommendations, automation, personalization)
-- SEO, ads, hydration & production debugging
-- Writing code that scales with users and teams
+- 🏗️ **Scalable React & Next.js Architectures**  
+  Designing modular, maintainable frontend systems that grow seamlessly with product and team size.
+
+- ⚡ **Performance Optimization & Clean State Management**  
+  Improving load times, rendering efficiency, and state predictability using modern best practices.
+
+- 🤖 **AI Feature Integration**  
+  Building intelligent features such as recommendations, automation, and personalized user experiences.
+
+- 🔍 **SEO, Ads, Hydration & Production Debugging**  
+  Ensuring search visibility, ad performance, correct hydration, and reliable debugging in production environments.
+
+- 🧩 **Code That Scales With Users & Teams**  
+  Writing clean, reusable, and well-structured code that supports long-term growth and collaboration.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
