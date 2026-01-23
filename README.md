@@ -100,7 +100,7 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 
 ## 🤝 Let’s Build Something Impactful
 
-- 💼 Open to **Frontend / Full-Stack / AI-focused roles**
+- 💼 Open to **Frontend developer roles**
 - 🚀 Interested in **startups, SaaS & product teams**
 - 📬 Email: **dhruvsheladiya07@gmail.com**
 
