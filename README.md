@@ -1,15 +1,29 @@
-## 🚀 Dhruv Sheladiya | AI-Driven Web Developer
+## 🚀 Dhruv Sheladiya | Full Stack Developer | MERN Stack | React.js Next.js & Node.js Expert
 
 <p align="center">
   <b>Building scalable web apps • Integrating AI into real products • Performance-focused frontend</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-sheladiya-a350582a6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://aboutdhruv.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-aboutdhruv.vercel.app-E11D48?style=flat&logo=vercel&logoColor=white" alt="Dhruv Sheladiya Portfolio" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0191c7eba12b27a044">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white" alt="Dhruv Sheladiya on Upwork" />
+  </a>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Dhruv Sheladiya on LinkedIn" />
+  </a>
+  <a href="https://x.com/DhruvSheladiya2">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Dhruv Sheladiya on X" />
+  </a>
+  <a href="https://www.instagram.com/dhruv_15_11_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="DhruvSheladiya on Instagram" />
+  </a>
+  <a href="https://in.pinterest.com/dhruvsheladiya07/">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white" alt="Dhruv Sheladiya on Pinterest" />
   </a>
   <a href="mailto:dhruvsheladiya07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email DhruvSheladiya" />
   </a>
 </p>
 
@@ -89,7 +103,7 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
       </a>
     </span>
     <span>
-      <a href="[https://aboutdhruv.vercel.app/">
+      <a href="https://aboutdhruv.vercel.app/">
         <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dhruv-1511&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
       </a>
     </span>
@@ -98,10 +112,12 @@ I enjoy working at the intersection of **Frontend, AI, and Product Engineering**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let’s Build Something Impactful
+"Let's Build Something Impactful": add two lines
 
 - 💼 Open to **Frontend developer roles**
 - 🚀 Interested in **startups, SaaS & product teams**
+- 🌐 Portfolio: **[aboutdhruv.vercel.app](https://aboutdhruv.vercel.app)**
+- 🧑‍💻 Hire me on **[Upwork](https://www.upwork.com/freelancers/~0191c7eba12b27a044)**
 - 📬 Email: **dhruvsheladiya07@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
